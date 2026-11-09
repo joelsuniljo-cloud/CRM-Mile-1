@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <rect width="80" height="80" fill="#3355FF" rx="8"/>
+  <g transform="translate(14.4, 18.1) scale(0.9143)" fill="#F7F7F7">
+    
+  <!-- Bar 1: short left block -->
+  <rect x="0" y="24" width="13" height="24" rx="1.5"/>
+  <!-- Bar 2: taller middle block -->
+  <rect x="18" y="10" width="13" height="38" rx="1.5"/>
+  <!-- Corner bracket: horizontal top bar -->
+  <rect x="32" y="0" width="24" height="11" rx="1.5"/>
+  <!-- Corner bracket: vertical right drop -->
+  <rect x="45" y="0" width="11" height="30" rx="1.5"/>
+
+  </g>
+</svg>
